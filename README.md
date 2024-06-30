@@ -3,5 +3,7 @@
 This is repo for 30th June's activity assignment repo
 
 Today's Key take away:
-> GitHub's collabrative management
-> Creating repo
+1. GitHub's collabrative management
+2. Creating repo
+
+Assignment to Watch - GCM video
